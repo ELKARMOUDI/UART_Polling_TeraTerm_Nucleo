@@ -3,10 +3,7 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
 ![UART](https://img.shields.io/badge/USART2-Polling_Mode-green)
 
-
-![F3770F69-2E8E-4C95-96C4-A38BE586D5B6](https://github.com/user-attachments/assets/6a5dc50a-091e-4e05-9cbc-4efb27df663f)
-
-
+<img src= "https://github.com/user-attachments/assets/6a5dc50a-091e-4e05-9cbc-4efb27df663f" alt="F3770F69-2E8E-4C95-96C4-A38BE586D5B6" >
 
 
 Basic UART communication in polling mode using STM32F411 Nucleo.
